@@ -25,6 +25,6 @@ class Config(object):
     MAIL_USE_TLS = os.environ.get('MAIL_USE_TLS') is not None
     MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
-    ADMINS = ['jxjjyekang@163.com']
+    ADMINS = ['517426342@1qq.com']
     # 搜索框
     ELASTICSEARCH_URL = os.environ.get('ELASTICSEARCH_URL')
